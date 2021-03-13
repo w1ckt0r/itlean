@@ -33,10 +33,10 @@ require_once $abs_us_root.$us_url_root.'users/helpers/helpers.php';
 
 // if($_SERVER['REMOTE_ADDR'] == '::1'){
 
-	$host = '187.45.196.136';
-	$userdb = 'portalafrac';
-	$db = 'portalafrac';
-	$pass = 'AFRAC@2021#';
+	$host = 'pupill.us';
+	$userdb = 'pupill_itlean';
+	$db = 'pupill_itlean';
+	$pass = 'Wn*Hou0a*oiK5xvELZ';
 	// $host = 'pupill.us';
 	// $userdb = 'pupill_portalafrac';
 	// $db = 'pupill_portalafrac';
